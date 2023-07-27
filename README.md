@@ -11,7 +11,7 @@ I'm a QA engineer who's interested in Cloud Microservices 🤓 I'm also being an
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [hajarkhaled42@gmail.com](mailto:hajarkhaled42@gmail.com)
 * 🚀  I'm currently working on [Capital E/E systems](http://plm.sw.siemens.com/en-US/capital/ )
-* 🧠  I'm learning Testing applications on cloud
+* 🧠  I'm learning Testing applications on the cloud
 
 ### Skills
 
